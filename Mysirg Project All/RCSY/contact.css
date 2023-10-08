@@ -1,0 +1,19 @@
+body{
+    background: #44ebe3;
+  
+}
+div{
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 50%;
+    height: 70vh;
+}
+p{
+    margin-left:20px;
+    margin-top: 20px;
+}
+input{
+    width: 200px;
+    height: 20px;
+    
+}

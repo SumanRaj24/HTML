@@ -1,0 +1,19 @@
+section{
+    background-color: aliceblue;
+}
+summary{
+    background-color: rgb(228, 52, 9);
+     width: 80px;
+}
+h1{
+    color: #ff0000;
+}
+h2{
+    color: rgb(27, 84, 241)
+}
+h3{
+    color: black;
+}
+p1{
+    color: aqua;
+}
